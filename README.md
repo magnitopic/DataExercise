@@ -35,6 +35,20 @@ Run database population script
 python src/createDatabase.py
 ```
 
+## Process
+
+Once in jupyter notebook, you can look at the diferent files in `src` in this order:
+
+- [exploration.ipynb](src/exploration.ipynb)
+- [clients.ipynb](src/clients.ipynb)
+- [employees.ipynb](src/employees.ipynb)
+- [transaction.ipynb](src/transaction.ipynb)
+- [normalize.ipynb](src/normalize.ipynb)
+
+If you run these files CVSs with the data to populate the database will be created in the `exports` folder
+
+Finaly you can run the [createDatabase.py](src/createDatabase.py) file to create and populate the database with the CSV values.
+
 ## Result
 
 Screenshot of data in `transaction` table
