@@ -1,201 +1,201 @@
 id,TotalPrice,Date,Type,PayMedium,Observations,Document,ClientID,EmployeeID
-0,489.68,17/08/2025,COMPRA,efectivo,Falta confirmación,Etiqueta #C-801,B33445522,0
-1,660.8,05-May-2025,VENTA,bizum,Pendiente pago,Garantía #V-516,87654321N,1
-2,165.18,19/03/2025,COMPRA,tarjeta,Falta confirmación,Albarán #C-555,S55667788,2
+0,489.68,2025-08-17,COMPRA,efectivo,Falta confirmación,Etiqueta #C-801,B33445522,0
+1,660.8,2025-05-05,VENTA,bizum,Pendiente pago,Garantía #V-516,87654321N,1
+2,165.18,2025-03-19,COMPRA,tarjeta,Falta confirmación,Albarán #C-555,S55667788,2
 3,877.44,2025-05-16,VENTA,efectivo,Falta confirmación,Garantía #V-888,88990011T,1
-4,1824.28,06/01/2025,COMPRA,bizum,,Recomendación de uso #C-520,B23456789,2
-5,791.26,2025.09.08,COMPRA,bizum,Falta confirmación,Etiqueta #C-754,B23456789,2
-6,1116.1,18-Apr-2025,VENTA,efectivo,Garantía extendida,Recomendación de uso #V-853,56789012M,2
-7,347.41,20-Aug-2025,COMPRA,transferencia,Falta confirmación,Albarán #C-183,B99887766,1
-8,673.01,2025/02/09,COMPRA,efectivo,Pendiente pago,Recomendación de uso #C-140,B23456789,3
-9,,17/09/2025,VENTA,tarjeta,Entrega parcial,Factura #V-584,55667788W,3
-10,499.67,24-01-25,VENTA,efectivo,Garantía extendida,Factura #V-750,77889900K,3
-11,640.18,03-04-25,VENTA,tarjeta,,Albarán #V-471,22113344J,3
-12,148.71,2025.01.22,COMPRA,efectivo,Duplicado,Etiqueta #C-457,B99887766,3
+4,1824.28,2025-01-06,COMPRA,bizum,,Recomendación de uso #C-520,B23456789,2
+5,791.26,2025-09-08,COMPRA,bizum,Falta confirmación,Etiqueta #C-754,B23456789,2
+6,1116.1,2025-04-18,VENTA,efectivo,Garantía extendida,Recomendación de uso #V-853,56789012M,2
+7,347.41,2025-08-20,COMPRA,transferencia,Falta confirmación,Albarán #C-183,B99887766,1
+8,673.01,2025-02-09,COMPRA,efectivo,Pendiente pago,Recomendación de uso #C-140,B23456789,3
+9,,2025-09-17,VENTA,tarjeta,Entrega parcial,Factura #V-584,55667788W,3
+10,499.67,2025-01-24,VENTA,efectivo,Garantía extendida,Factura #V-750,77889900K,3
+11,640.18,2025-04-03,VENTA,tarjeta,,Albarán #V-471,22113344J,3
+12,148.71,2025-01-22,COMPRA,efectivo,Duplicado,Etiqueta #C-457,B99887766,3
 13,649.04,2025-02-07,VENTA,bizum,Duplicado,Recomendación de uso #V-410,66779988S,2
-14,1374.17,18-09-25,COMPRA,bizum,Garantía extendida,Etiqueta #C-339,B99887766,0
-15,,2025/07/01,VENTA,efectivo,Duplicado,Etiqueta #V-911,22334455R,2
-16,,09-Apr-2025,VENTA,bizum,Pendiente pago,Etiqueta #V-975,66779988S,2
-17,233.76,18-Jan-2025,COMPRA,efectivo,Pendiente pago,Garantía #C-919,B99887766,1
-18,848.1,2025/10/01,COMPRA,bizum,Garantía extendida,Etiqueta #C-157,S55667788,3
-19,491.94,2025/03/24,VENTA,tarjeta,Falta confirmación,Recomendación de uso #V-708,11122233V,1
+14,1374.17,2025-09-18,COMPRA,bizum,Garantía extendida,Etiqueta #C-339,B99887766,0
+15,,2025-07-01,VENTA,efectivo,Duplicado,Etiqueta #V-911,22334455R,2
+16,,2025-04-09,VENTA,bizum,Pendiente pago,Etiqueta #V-975,66779988S,2
+17,233.76,2025-01-18,COMPRA,efectivo,Pendiente pago,Garantía #C-919,B99887766,1
+18,848.1,2025-10-01,COMPRA,bizum,Garantía extendida,Etiqueta #C-157,S55667788,3
+19,491.94,2025-03-24,VENTA,tarjeta,Falta confirmación,Recomendación de uso #V-708,11122233V,1
 20,585.94,2025-03-19,VENTA,efectivo,,Albarán #V-526,99884433Z,0
 21,147.85,2025-10-10,COMPRA,transferencia,Duplicado,Etiqueta #C-383,C44556677,1
-22,938.06,13-Mar-2025,COMPRA,tarjeta,Falta confirmación,Albarán #C-544,C44556677,1
-23,367.51,14/01/2025,COMPRA,transferencia,,Factura #C-464,C44556677,0
-24,600.83,25-Sep-2025,VENTA,transferencia,,Garantía #V-475,23456789L,3
-25,624.02,02/05/2025,VENTA,transferencia,Duplicado,Etiqueta #V-921,23456789L,1
-26,349.63,22-Feb-2025,COMPRA,efectivo,Pendiente pago,Etiqueta #C-289,B99887766,3
-27,1094.64,21-08-25,COMPRA,tarjeta,Falta confirmación,Recomendación de uso #C-103,B23456789,1
-28,190.47,2025/01/05,VENTA,tarjeta,Duplicado,Factura #V-601,88776655A,2
-29,626.84,2025/05/17,COMPRA,efectivo,Entrega parcial,Recomendación de uso #C-490,B99887766,3
+22,938.06,2025-03-13,COMPRA,tarjeta,Falta confirmación,Albarán #C-544,C44556677,1
+23,367.51,2025-01-14,COMPRA,transferencia,,Factura #C-464,C44556677,0
+24,600.83,2025-09-25,VENTA,transferencia,,Garantía #V-475,23456789L,3
+25,624.02,2025-05-02,VENTA,transferencia,Duplicado,Etiqueta #V-921,23456789L,1
+26,349.63,2025-02-22,COMPRA,efectivo,Pendiente pago,Etiqueta #C-289,B99887766,3
+27,1094.64,2025-08-21,COMPRA,tarjeta,Falta confirmación,Recomendación de uso #C-103,B23456789,1
+28,190.47,2025-01-05,VENTA,tarjeta,Duplicado,Factura #V-601,88776655A,2
+29,626.84,2025-05-17,COMPRA,efectivo,Entrega parcial,Recomendación de uso #C-490,B99887766,3
 30,132.21,2025-01-25,VENTA,transferencia,,Factura #V-796,99887766G,1
-31,619.97,06/05/2025,VENTA,tarjeta,Entrega parcial,Albarán #V-748,11122233V,0
-32,1407.6,09/07/2025,VENTA,transferencia,Pendiente pago,Etiqueta #V-612,11223344P,3
-33,228.28,28-Mar-2025,COMPRA,tarjeta,Duplicado,Factura #C-128,S55667788,2
-34,189.64,2025.08.20,COMPRA,tarjeta,Entrega parcial,Garantía #C-319,A12345987,3
+31,619.97,2025-05-06,VENTA,tarjeta,Entrega parcial,Albarán #V-748,11122233V,0
+32,1407.6,2025-07-09,VENTA,transferencia,Pendiente pago,Etiqueta #V-612,11223344P,3
+33,228.28,2025-03-28,COMPRA,tarjeta,Duplicado,Factura #C-128,S55667788,2
+34,189.64,2025-08-20,COMPRA,tarjeta,Entrega parcial,Garantía #C-319,A12345987,3
 35,,2025-03-09,VENTA,transferencia,Falta confirmación,Recomendación de uso #V-885,88990011T,2
 36,,2025-10-05,COMPRA,efectivo,Falta confirmación,Garantía #C-273,B23456789,3
-37,968.56,05-Oct-2025,COMPRA,bizum,Garantía extendida,Recomendación de uso #C-740,B33445522,0
+37,968.56,2025-10-05,COMPRA,bizum,Garantía extendida,Recomendación de uso #C-740,B33445522,0
 38,1099.72,2025-04-14,COMPRA,efectivo,,Albarán #C-710,B99887766,3
 39,1259.1,2025-07-02,COMPRA,transferencia,Entrega parcial,Etiqueta #C-171,B23456789,3
-40,1014.64,2025.02.08,VENTA,tarjeta,Garantía extendida,Recomendación de uso #V-377,55667788W,1
+40,1014.64,2025-02-08,VENTA,tarjeta,Garantía extendida,Recomendación de uso #V-377,55667788W,1
 41,120.54,2025-05-01,COMPRA,tarjeta,Falta confirmación,Albarán #C-131,C44556677,0
-42,881.46,17-Oct-2025,VENTA,efectivo,,Recomendación de uso #V-199,33445566J,3
-43,34.16,2025/09/06,VENTA,bizum,Garantía extendida,Factura #V-605,22113344J,3
-44,866.86,2025/01/02,VENTA,bizum,,Albarán #V-700,11122233V,0
-45,,15/01/2025,COMPRA,efectivo,,Garantía #C-713,B99887766,3
-46,107.6,2025.10.13,COMPRA,transferencia,Entrega parcial,Etiqueta #C-268,B23456789,2
+42,881.46,2025-10-17,VENTA,efectivo,,Recomendación de uso #V-199,33445566J,3
+43,34.16,2025-09-06,VENTA,bizum,Garantía extendida,Factura #V-605,22113344J,3
+44,866.86,2025-01-02,VENTA,bizum,,Albarán #V-700,11122233V,0
+45,,2025-01-15,COMPRA,efectivo,,Garantía #C-713,B99887766,3
+46,107.6,2025-10-13,COMPRA,transferencia,Entrega parcial,Etiqueta #C-268,B23456789,2
 47,174.84,2025-08-12,VENTA,bizum,Duplicado,Recomendación de uso #V-416,66778899Q,3
-48,728.86,2025.08.11,VENTA,transferencia,Garantía extendida,Factura #V-462,C11223344,2
-49,1111.49,15-10-25,COMPRA,bizum,Garantía extendida,Factura #C-404,B33445522,3
-50,869.42,2025.05.06,COMPRA,tarjeta,Garantía extendida,Etiqueta #C-368,C44556677,3
-51,1224.49,2025/08/18,VENTA,transferencia,Entrega parcial,Recomendación de uso #V-932,11122233V,0
-52,992.37,2025.06.02,COMPRA,efectivo,,Factura #C-425,A12345987,0
-53,39.12,01/06/2025,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-967,55667788W,1
-54,444.9,2025.07.24,COMPRA,efectivo,Pendiente pago,Albarán #C-315,B99887766,2
-55,140.82,2025/09/22,VENTA,transferencia,Duplicado,Factura #V-471,34567890H,3
-56,490.26,15/09/2025,VENTA,bizum,Falta confirmación,Garantía #V-328,34567890H,1
-57,902.55,06/07/2025,VENTA,tarjeta,Duplicado,Garantía #V-481,55667788W,3
-58,692.85,23-09-25,VENTA,tarjeta,Entrega parcial,Recomendación de uso #V-880,89012345Y,0
-59,424.96,21-Jun-2025,COMPRA,efectivo,Duplicado,Garantía #C-798,B99887766,1
-60,800.54,2025.05.27,VENTA,efectivo,,Etiqueta #V-661,66779988S,0
+48,728.86,2025-08-11,VENTA,transferencia,Garantía extendida,Factura #V-462,C11223344,2
+49,1111.49,2025-10-15,COMPRA,bizum,Garantía extendida,Factura #C-404,B33445522,3
+50,869.42,2025-05-06,COMPRA,tarjeta,Garantía extendida,Etiqueta #C-368,C44556677,3
+51,1224.49,2025-08-18,VENTA,transferencia,Entrega parcial,Recomendación de uso #V-932,11122233V,0
+52,992.37,2025-06-02,COMPRA,efectivo,,Factura #C-425,A12345987,0
+53,39.12,2025-06-01,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-967,55667788W,1
+54,444.9,2025-07-24,COMPRA,efectivo,Pendiente pago,Albarán #C-315,B99887766,2
+55,140.82,2025-09-22,VENTA,transferencia,Duplicado,Factura #V-471,34567890H,3
+56,490.26,2025-09-15,VENTA,bizum,Falta confirmación,Garantía #V-328,34567890H,1
+57,902.55,2025-07-06,VENTA,tarjeta,Duplicado,Garantía #V-481,55667788W,3
+58,692.85,2025-09-23,VENTA,tarjeta,Entrega parcial,Recomendación de uso #V-880,89012345Y,0
+59,424.96,2025-06-21,COMPRA,efectivo,Duplicado,Garantía #C-798,B99887766,1
+60,800.54,2025-05-27,VENTA,efectivo,,Etiqueta #V-661,66779988S,0
 61,661.58,2025-10-25,VENTA,tarjeta,Falta confirmación,Garantía #V-444,55667788W,2
-62,1328.44,16-May-2025,COMPRA,transferencia,Duplicado,Factura #C-563,B99887766,3
+62,1328.44,2025-05-16,COMPRA,transferencia,Duplicado,Factura #C-563,B99887766,3
 63,767.29,2025-06-04,COMPRA,efectivo,Pendiente pago,Recomendación de uso #C-614,B99887766,3
 64,1617.53,2025-01-01,COMPRA,efectivo,Entrega parcial,Recomendación de uso #C-973,B23456789,3
-65,1059.76,25/06/2025,VENTA,transferencia,,Factura #V-168,89012345Y,0
+65,1059.76,2025-06-25,VENTA,transferencia,,Factura #V-168,89012345Y,0
 66,230.36,2025-02-15,COMPRA,transferencia,Pendiente pago,Recomendación de uso #C-675,B33445522,3
 67,99.95,2025-08-17,VENTA,bizum,Garantía extendida,Recomendación de uso #V-155,56789012M,2
-68,728.97,20/06/2025,VENTA,transferencia,,Recomendación de uso #V-776,22334455R,2
-69,1333.87,27-Apr-2025,VENTA,efectivo,Garantía extendida,Garantía #V-476,88990011T,0
-70,141.27,2025/08/06,VENTA,efectivo,Duplicado,Albarán #V-312,77889900K,1
-71,563.42,24-Apr-2025,COMPRA,tarjeta,Duplicado,Albarán #C-828,B99887766,0
+68,728.97,2025-06-20,VENTA,transferencia,,Recomendación de uso #V-776,22334455R,2
+69,1333.87,2025-04-27,VENTA,efectivo,Garantía extendida,Garantía #V-476,88990011T,0
+70,141.27,2025-08-06,VENTA,efectivo,Duplicado,Albarán #V-312,77889900K,1
+71,563.42,2025-04-24,COMPRA,tarjeta,Duplicado,Albarán #C-828,B99887766,0
 72,107.26,2025-02-08,COMPRA,tarjeta,Pendiente pago,Recomendación de uso #C-116,B23456789,3
 73,465.99,2025-08-05,VENTA,efectivo,Entrega parcial,Garantía #V-468,55667788W,3
-74,407.77,2025/10/06,VENTA,efectivo,Pendiente pago,Garantía #V-659,11223344P,0
+74,407.77,2025-10-06,VENTA,efectivo,Pendiente pago,Garantía #V-659,11223344P,0
 75,887.14,2025-04-14,VENTA,bizum,Pendiente pago,Factura #V-862,11122233V,0
-76,298.04,24-Oct-2025,COMPRA,tarjeta,,Factura #C-379,B99887766,2
-77,532.76,24-05-25,COMPRA,transferencia,Entrega parcial,Albarán #C-426,B99887766,0
+76,298.04,2025-10-24,COMPRA,tarjeta,,Factura #C-379,B99887766,2
+77,532.76,2025-05-24,COMPRA,transferencia,Entrega parcial,Albarán #C-426,B99887766,0
 78,166.5,2025-07-12,COMPRA,tarjeta,Falta confirmación,Etiqueta #C-588,B99887766,3
 79,97.36,2025-09-14,COMPRA,transferencia,Falta confirmación,Garantía #C-282,B33445522,0
-80,1069.11,24-Mar-2025,COMPRA,efectivo,Entrega parcial,Recomendación de uso #C-788,B23456789,2
-81,645.1,2025/06/15,COMPRA,transferencia,,Recomendación de uso #C-121,S55667788,2
+80,1069.11,2025-03-24,COMPRA,efectivo,Entrega parcial,Recomendación de uso #C-788,B23456789,2
+81,645.1,2025-06-15,COMPRA,transferencia,,Recomendación de uso #C-121,S55667788,2
 82,174.16,2025-06-14,VENTA,efectivo,,Etiqueta #V-793,56789012M,2
-83,661.19,18-Jun-2025,COMPRA,bizum,Duplicado,Garantía #C-503,B23456789,1
-84,990.76,02/07/2025,COMPRA,tarjeta,,Etiqueta #C-236,B33445522,3
-85,902.82,2025.01.09,COMPRA,efectivo,Falta confirmación,Albarán #C-787,S55667788,1
-86,,14-Jun-2025,VENTA,bizum,,Albarán #V-200,87654321N,1
-87,384.02,03/06/2025,COMPRA,tarjeta,,Garantía #C-255,B23456789,2
+83,661.19,2025-06-18,COMPRA,bizum,Duplicado,Garantía #C-503,B23456789,1
+84,990.76,2025-07-02,COMPRA,tarjeta,,Etiqueta #C-236,B33445522,3
+85,902.82,2025-01-09,COMPRA,efectivo,Falta confirmación,Albarán #C-787,S55667788,1
+86,,2025-06-14,VENTA,bizum,,Albarán #V-200,87654321N,1
+87,384.02,2025-06-03,COMPRA,tarjeta,,Garantía #C-255,B23456789,2
 88,545.44,2025-01-23,COMPRA,transferencia,Falta confirmación,Etiqueta #C-768,C44556677,1
-89,1508.58,08/02/2025,VENTA,efectivo,,Garantía #V-786,77889900K,2
-90,1631.22,18-Oct-2025,COMPRA,bizum,Pendiente pago,Albarán #C-603,B99887766,0
+89,1508.58,2025-02-08,VENTA,efectivo,,Garantía #V-786,77889900K,2
+90,1631.22,2025-10-18,COMPRA,bizum,Pendiente pago,Albarán #C-603,B99887766,0
 91,162.2,2025-08-26,COMPRA,tarjeta,Pendiente pago,Garantía #C-568,B33445522,1
-92,,25-Aug-2025,COMPRA,efectivo,Falta confirmación,Albarán #C-189,S55667788,0
-93,511.73,24/09/2025,VENTA,tarjeta,Garantía extendida,Recomendación de uso #V-676,66778899Q,3
-94,1015.5,2025/06/08,VENTA,tarjeta,Pendiente pago,Recomendación de uso #V-819,11223344P,1
-95,77.76,09-05-25,COMPRA,tarjeta,Entrega parcial,Factura #C-684,S55667788,1
-96,435.96,2025/03/23,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-874,88776655A,2
-97,225.7,2025/05/03,COMPRA,efectivo,,Albarán #C-721,B99887766,1
-98,27.56,2025.08.21,COMPRA,bizum,Falta confirmación,Recomendación de uso #C-671,C44556677,2
-99,,21-03-25,COMPRA,tarjeta,Garantía extendida,Recomendación de uso #C-265,B23456789,2
-100,1132.8,06-06-25,VENTA,bizum,,Garantía #V-153,34567890H,2
-101,803.91,20-01-25,VENTA,tarjeta,Pendiente pago,Factura #V-965,56789012M,1
-102,332.72,21/08/2025,COMPRA,tarjeta,,Factura #C-998,B33445522,3
-103,1102.04,23-Feb-2025,COMPRA,bizum,Pendiente pago,Factura #C-717,C44556677,1
+92,,2025-08-25,COMPRA,efectivo,Falta confirmación,Albarán #C-189,S55667788,0
+93,511.73,2025-09-24,VENTA,tarjeta,Garantía extendida,Recomendación de uso #V-676,66778899Q,3
+94,1015.5,2025-06-08,VENTA,tarjeta,Pendiente pago,Recomendación de uso #V-819,11223344P,1
+95,77.76,2025-05-09,COMPRA,tarjeta,Entrega parcial,Factura #C-684,S55667788,1
+96,435.96,2025-03-23,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-874,88776655A,2
+97,225.7,2025-05-03,COMPRA,efectivo,,Albarán #C-721,B99887766,1
+98,27.56,2025-08-21,COMPRA,bizum,Falta confirmación,Recomendación de uso #C-671,C44556677,2
+99,,2025-03-21,COMPRA,tarjeta,Garantía extendida,Recomendación de uso #C-265,B23456789,2
+100,1132.8,2025-06-06,VENTA,bizum,,Garantía #V-153,34567890H,2
+101,803.91,2025-01-20,VENTA,tarjeta,Pendiente pago,Factura #V-965,56789012M,1
+102,332.72,2025-08-21,COMPRA,tarjeta,,Factura #C-998,B33445522,3
+103,1102.04,2025-02-23,COMPRA,bizum,Pendiente pago,Factura #C-717,C44556677,1
 104,132.02,2025-06-21,COMPRA,bizum,Duplicado,Recomendación de uso #C-993,B99887766,2
-105,,2025.07.22,COMPRA,transferencia,Pendiente pago,Garantía #C-413,A12345987,3
-106,18.3,2025.05.16,VENTA,transferencia,Pendiente pago,Etiqueta #V-850,88990011T,3
-107,813.07,2025/01/11,COMPRA,bizum,Garantía extendida,Recomendación de uso #C-790,S55667788,0
-108,268.98,09-10-25,COMPRA,efectivo,Entrega parcial,Garantía #C-799,B33445522,1
-109,552.37,23/10/2025,COMPRA,transferencia,Garantía extendida,Albarán #C-157,B99887766,0
-110,111.72,25-Jun-2025,COMPRA,transferencia,Pendiente pago,Etiqueta #C-183,B99887766,2
-111,622.64,2025/05/26,VENTA,efectivo,,Recomendación de uso #V-637,55667788W,3
-112,1147.26,09/09/2025,VENTA,bizum,,Garantía #V-144,66778899Q,1
-113,966.74,21-Aug-2025,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-460,33445566J,1
-114,,11-Mar-2025,COMPRA,transferencia,Duplicado,Recomendación de uso #C-982,C44556677,0
-115,31.68,04-04-25,VENTA,efectivo,Duplicado,Etiqueta #V-503,56789012M,2
-116,729.32,2025.05.02,VENTA,tarjeta,,Albarán #V-504,22334455R,2
-117,220.86,2025.04.19,COMPRA,efectivo,Entrega parcial,Albarán #C-830,B99887766,2
-118,225.1,22-Mar-2025,COMPRA,efectivo,Garantía extendida,Recomendación de uso #C-661,B23456789,3
+105,,2025-07-22,COMPRA,transferencia,Pendiente pago,Garantía #C-413,A12345987,3
+106,18.3,2025-05-16,VENTA,transferencia,Pendiente pago,Etiqueta #V-850,88990011T,3
+107,813.07,2025-01-11,COMPRA,bizum,Garantía extendida,Recomendación de uso #C-790,S55667788,0
+108,268.98,2025-10-09,COMPRA,efectivo,Entrega parcial,Garantía #C-799,B33445522,1
+109,552.37,2025-10-23,COMPRA,transferencia,Garantía extendida,Albarán #C-157,B99887766,0
+110,111.72,2025-06-25,COMPRA,transferencia,Pendiente pago,Etiqueta #C-183,B99887766,2
+111,622.64,2025-05-26,VENTA,efectivo,,Recomendación de uso #V-637,55667788W,3
+112,1147.26,2025-09-09,VENTA,bizum,,Garantía #V-144,66778899Q,1
+113,966.74,2025-08-21,VENTA,efectivo,Pendiente pago,Recomendación de uso #V-460,33445566J,1
+114,,2025-03-11,COMPRA,transferencia,Duplicado,Recomendación de uso #C-982,C44556677,0
+115,31.68,2025-04-04,VENTA,efectivo,Duplicado,Etiqueta #V-503,56789012M,2
+116,729.32,2025-05-02,VENTA,tarjeta,,Albarán #V-504,22334455R,2
+117,220.86,2025-04-19,COMPRA,efectivo,Entrega parcial,Albarán #C-830,B99887766,2
+118,225.1,2025-03-22,COMPRA,efectivo,Garantía extendida,Recomendación de uso #C-661,B23456789,3
 119,971.97,2025-04-24,COMPRA,bizum,Falta confirmación,Albarán #C-702,C44556677,1
-120,,12-04-25,VENTA,tarjeta,,Garantía #V-112,89012345Y,1
-121,295.21,21-Jun-2025,VENTA,efectivo,,Albarán #V-788,11223344P,0
+120,,2025-04-12,VENTA,tarjeta,,Garantía #V-112,89012345Y,1
+121,295.21,2025-06-21,VENTA,efectivo,,Albarán #V-788,11223344P,0
 122,131.9,2025-08-13,VENTA,transferencia,Duplicado,Recomendación de uso #V-122,34567890H,0
-123,1247.04,27/05/2025,VENTA,transferencia,Garantía extendida,Recomendación de uso #V-838,33445566J,3
-124,739.71,2025.02.15,VENTA,transferencia,Entrega parcial,Albarán #V-166,99884433Z,0
-125,1078.28,2025/09/23,COMPRA,transferencia,Falta confirmación,Recomendación de uso #C-605,B23456789,1
-126,882.93,28-Apr-2025,COMPRA,tarjeta,Pendiente pago,Garantía #C-955,C44556677,3
-127,509.04,2025.10.17,VENTA,bizum,Garantía extendida,Albarán #V-619,11122233V,3
-128,299.64,06-01-25,VENTA,tarjeta,Duplicado,Factura #V-113,99887766G,1
-129,1039.0,2025/06/11,VENTA,efectivo,Pendiente pago,Garantía #V-226,66779988S,1
-130,800.28,09-Apr-2025,VENTA,transferencia,Entrega parcial,Factura #V-324,87654321N,1
-131,173.61,09-Jun-2025,VENTA,tarjeta,,Recomendación de uso #V-366,88990011T,1
-132,433.89,2025/09/06,COMPRA,efectivo,,Etiqueta #C-324,B23456789,1
-133,1758.66,2025.04.15,COMPRA,efectivo,Pendiente pago,Albarán #C-675,B99887766,2
-134,,22/01/2025,COMPRA,transferencia,,Etiqueta #C-935,B23456789,3
+123,1247.04,2025-05-27,VENTA,transferencia,Garantía extendida,Recomendación de uso #V-838,33445566J,3
+124,739.71,2025-02-15,VENTA,transferencia,Entrega parcial,Albarán #V-166,99884433Z,0
+125,1078.28,2025-09-23,COMPRA,transferencia,Falta confirmación,Recomendación de uso #C-605,B23456789,1
+126,882.93,2025-04-28,COMPRA,tarjeta,Pendiente pago,Garantía #C-955,C44556677,3
+127,509.04,2025-10-17,VENTA,bizum,Garantía extendida,Albarán #V-619,11122233V,3
+128,299.64,2025-01-06,VENTA,tarjeta,Duplicado,Factura #V-113,99887766G,1
+129,1039.0,2025-06-11,VENTA,efectivo,Pendiente pago,Garantía #V-226,66779988S,1
+130,800.28,2025-04-09,VENTA,transferencia,Entrega parcial,Factura #V-324,87654321N,1
+131,173.61,2025-06-09,VENTA,tarjeta,,Recomendación de uso #V-366,88990011T,1
+132,433.89,2025-09-06,COMPRA,efectivo,,Etiqueta #C-324,B23456789,1
+133,1758.66,2025-04-15,COMPRA,efectivo,Pendiente pago,Albarán #C-675,B99887766,2
+134,,2025-01-22,COMPRA,transferencia,,Etiqueta #C-935,B23456789,3
 135,513.07,2025-05-19,COMPRA,transferencia,,Etiqueta #C-752,B23456789,3
-136,99.93,2025.06.08,COMPRA,efectivo,Pendiente pago,Etiqueta #C-106,S55667788,0
-137,339.78,2025.05.15,VENTA,efectivo,Duplicado,Factura #V-784,66778899Q,3
-138,131.19,03-Jun-2025,VENTA,bizum,Falta confirmación,Garantía #V-831,11122233V,0
-139,827.13,27/01/2025,COMPRA,bizum,Duplicado,Garantía #C-930,B99887766,3
+136,99.93,2025-06-08,COMPRA,efectivo,Pendiente pago,Etiqueta #C-106,S55667788,0
+137,339.78,2025-05-15,VENTA,efectivo,Duplicado,Factura #V-784,66778899Q,3
+138,131.19,2025-06-03,VENTA,bizum,Falta confirmación,Garantía #V-831,11122233V,0
+139,827.13,2025-01-27,COMPRA,bizum,Duplicado,Garantía #C-930,B99887766,3
 140,567.84,2025-04-24,COMPRA,tarjeta,Falta confirmación,Factura #C-389,S55667788,2
-141,760.28,21-May-2025,COMPRA,tarjeta,,Garantía #C-919,B99887766,2
+141,760.28,2025-05-21,COMPRA,tarjeta,,Garantía #C-919,B99887766,2
 142,,2025-01-02,COMPRA,tarjeta,Garantía extendida,Garantía #C-768,B99887766,3
-143,57.06,2025.09.22,VENTA,efectivo,Entrega parcial,Albarán #V-734,77889900K,3
+143,57.06,2025-09-22,VENTA,efectivo,Entrega parcial,Albarán #V-734,77889900K,3
 144,535.9,2025-05-04,VENTA,tarjeta,Duplicado,Etiqueta #V-402,87654321N,2
-145,601.2,2025.04.14,VENTA,bizum,Entrega parcial,Recomendación de uso #V-982,11223344P,0
-146,118.22,2025/02/02,VENTA,tarjeta,Entrega parcial,Recomendación de uso #V-477,22113344J,2
-147,874.35,21/02/2025,COMPRA,bizum,,Etiqueta #C-538,B33445522,2
-148,584.4,2025/03/09,COMPRA,efectivo,Garantía extendida,Garantía #C-991,B23456789,1
-149,,2025.09.21,COMPRA,transferencia,,Recomendación de uso #C-666,B23456789,2
-150,1271.76,21-06-25,COMPRA,transferencia,Falta confirmación,Etiqueta #C-945,B23456789,3
+145,601.2,2025-04-14,VENTA,bizum,Entrega parcial,Recomendación de uso #V-982,11223344P,0
+146,118.22,2025-02-02,VENTA,tarjeta,Entrega parcial,Recomendación de uso #V-477,22113344J,2
+147,874.35,2025-02-21,COMPRA,bizum,,Etiqueta #C-538,B33445522,2
+148,584.4,2025-03-09,COMPRA,efectivo,Garantía extendida,Garantía #C-991,B23456789,1
+149,,2025-09-21,COMPRA,transferencia,,Recomendación de uso #C-666,B23456789,2
+150,1271.76,2025-06-21,COMPRA,transferencia,Falta confirmación,Etiqueta #C-945,B23456789,3
 151,1154.73,2025-06-27,VENTA,bizum,Entrega parcial,Factura #V-111,34567890H,2
-152,917.38,01/01/2025,VENTA,bizum,Entrega parcial,Etiqueta #V-399,87654321N,0
-153,1211.27,02-Oct-2025,COMPRA,transferencia,,Etiqueta #C-499,A12345987,0
-154,1175.6,09/05/2025,VENTA,bizum,,Garantía #V-288,34567890H,1
-155,430.12,2025.10.16,VENTA,bizum,,Etiqueta #V-616,99884433Z,2
-156,,15/08/2025,VENTA,efectivo,Entrega parcial,Garantía #V-527,22334455R,2
-157,801.77,2025.03.04,VENTA,bizum,,Recomendación de uso #V-527,56789012M,3
-158,745.44,2025/08/08,VENTA,transferencia,Garantía extendida,Recomendación de uso #V-412,87654321N,1
-159,244.51,11-Apr-2025,COMPRA,transferencia,Garantía extendida,Factura #C-904,A12345987,1
-160,117.22,01-Apr-2025,COMPRA,transferencia,Garantía extendida,Recomendación de uso #C-852,B23456789,2
-161,108.52,23/02/2025,VENTA,bizum,Entrega parcial,Etiqueta #V-409,99884433Z,3
+152,917.38,2025-01-01,VENTA,bizum,Entrega parcial,Etiqueta #V-399,87654321N,0
+153,1211.27,2025-10-02,COMPRA,transferencia,,Etiqueta #C-499,A12345987,0
+154,1175.6,2025-05-09,VENTA,bizum,,Garantía #V-288,34567890H,1
+155,430.12,2025-10-16,VENTA,bizum,,Etiqueta #V-616,99884433Z,2
+156,,2025-08-15,VENTA,efectivo,Entrega parcial,Garantía #V-527,22334455R,2
+157,801.77,2025-03-04,VENTA,bizum,,Recomendación de uso #V-527,56789012M,3
+158,745.44,2025-08-08,VENTA,transferencia,Garantía extendida,Recomendación de uso #V-412,87654321N,1
+159,244.51,2025-04-11,COMPRA,transferencia,Garantía extendida,Factura #C-904,A12345987,1
+160,117.22,2025-04-01,COMPRA,transferencia,Garantía extendida,Recomendación de uso #C-852,B23456789,2
+161,108.52,2025-02-23,VENTA,bizum,Entrega parcial,Etiqueta #V-409,99884433Z,3
 162,141.72,2025-03-14,COMPRA,transferencia,,Albarán #C-921,B33445522,0
-163,73.26,2025.08.26,COMPRA,tarjeta,,Factura #C-530,C44556677,1
-164,390.59,2025.08.11,COMPRA,bizum,,Albarán #C-691,S55667788,3
-165,647.96,2025.09.24,COMPRA,efectivo,Falta confirmación,Albarán #C-685,A12345987,2
-166,486.37,2025/06/08,VENTA,transferencia,Falta confirmación,Albarán #V-152,11223344P,0
-167,600.93,2025/10/15,VENTA,efectivo,,Garantía #V-136,22113344J,3
-168,,15-03-25,COMPRA,bizum,Entrega parcial,Etiqueta #C-671,B99887766,0
+163,73.26,2025-08-26,COMPRA,tarjeta,,Factura #C-530,C44556677,1
+164,390.59,2025-08-11,COMPRA,bizum,,Albarán #C-691,S55667788,3
+165,647.96,2025-09-24,COMPRA,efectivo,Falta confirmación,Albarán #C-685,A12345987,2
+166,486.37,2025-06-08,VENTA,transferencia,Falta confirmación,Albarán #V-152,11223344P,0
+167,600.93,2025-10-15,VENTA,efectivo,,Garantía #V-136,22113344J,3
+168,,2025-03-15,COMPRA,bizum,Entrega parcial,Etiqueta #C-671,B99887766,0
 169,148.75,2025-01-27,VENTA,efectivo,Duplicado,Etiqueta #V-912,88990011T,0
-170,189.64,2025/05/13,COMPRA,transferencia,Entrega parcial,Recomendación de uso #C-187,B23456789,2
-171,1040.19,19-04-25,VENTA,transferencia,Pendiente pago,Garantía #V-728,33445566J,2
-172,207.2,05-Apr-2025,VENTA,efectivo,Garantía extendida,Garantía #V-814,66778899Q,0
-173,,01/02/2025,COMPRA,tarjeta,Falta confirmación,Factura #C-465,C44556677,3
-174,702.25,2025/07/24,VENTA,tarjeta,Pendiente pago,Etiqueta #V-367,66778899Q,3
-175,172.39,26-01-25,VENTA,efectivo,Entrega parcial,Albarán #V-250,23456789L,3
+170,189.64,2025-05-13,COMPRA,transferencia,Entrega parcial,Recomendación de uso #C-187,B23456789,2
+171,1040.19,2025-04-19,VENTA,transferencia,Pendiente pago,Garantía #V-728,33445566J,2
+172,207.2,2025-04-05,VENTA,efectivo,Garantía extendida,Garantía #V-814,66778899Q,0
+173,,2025-02-01,COMPRA,tarjeta,Falta confirmación,Factura #C-465,C44556677,3
+174,702.25,2025-07-24,VENTA,tarjeta,Pendiente pago,Etiqueta #V-367,66778899Q,3
+175,172.39,2025-01-26,VENTA,efectivo,Entrega parcial,Albarán #V-250,23456789L,3
 176,688.36,2025-01-08,VENTA,tarjeta,,Etiqueta #V-733,99884433Z,1
-177,288.88,2025/09/01,VENTA,tarjeta,Entrega parcial,Factura #V-458,11223344P,2
-178,620.38,2025/09/19,VENTA,efectivo,,Garantía #V-559,28954632Z,3
-179,452.0,2025.01.19,VENTA,bizum,Duplicado,Garantía #V-367,87654321N,1
+177,288.88,2025-09-01,VENTA,tarjeta,Entrega parcial,Factura #V-458,11223344P,2
+178,620.38,2025-09-19,VENTA,efectivo,,Garantía #V-559,28954632Z,3
+179,452.0,2025-01-19,VENTA,bizum,Duplicado,Garantía #V-367,87654321N,1
 180,237.23,2025-04-04,COMPRA,bizum,,Etiqueta #C-826,B99887766,2
 181,,2025-03-14,VENTA,transferencia,,Recomendación de uso #V-665,11122233V,1
-182,1035.92,04/09/2025,VENTA,efectivo,Garantía extendida,Albarán #V-376,33445566J,2
-183,1146.17,23-01-25,COMPRA,efectivo,,Recomendación de uso #C-931,B23456789,1
+182,1035.92,2025-09-04,VENTA,efectivo,Garantía extendida,Albarán #V-376,33445566J,2
+183,1146.17,2025-01-23,COMPRA,efectivo,,Recomendación de uso #C-931,B23456789,1
 184,37.18,2025-06-11,COMPRA,efectivo,Garantía extendida,Garantía #C-500,B23456789,0
-185,573.49,2025.01.23,VENTA,transferencia,,Recomendación de uso #V-309,56789012M,1
-186,1043.12,11-01-25,VENTA,bizum,,Albarán #V-377,23456789L,1
-187,250.44,2025.08.04,COMPRA,transferencia,Pendiente pago,Factura #C-908,B33445522,3
-188,526.67,2025/03/14,COMPRA,transferencia,Garantía extendida,Garantía #C-346,C44556677,0
-189,459.09,03/10/2025,VENTA,tarjeta,Garantía extendida,Albarán #V-386,C11223344,1
-190,472.04,25-08-25,COMPRA,efectivo,Garantía extendida,Etiqueta #C-511,B99887766,0
-191,201.78,07/06/2025,VENTA,bizum,Pendiente pago,Garantía #V-319,11223344P,1
+185,573.49,2025-01-23,VENTA,transferencia,,Recomendación de uso #V-309,56789012M,1
+186,1043.12,2025-01-11,VENTA,bizum,,Albarán #V-377,23456789L,1
+187,250.44,2025-08-04,COMPRA,transferencia,Pendiente pago,Factura #C-908,B33445522,3
+188,526.67,2025-03-14,COMPRA,transferencia,Garantía extendida,Garantía #C-346,C44556677,0
+189,459.09,2025-10-03,VENTA,tarjeta,Garantía extendida,Albarán #V-386,C11223344,1
+190,472.04,2025-08-25,COMPRA,efectivo,Garantía extendida,Etiqueta #C-511,B99887766,0
+191,201.78,2025-06-07,VENTA,bizum,Pendiente pago,Garantía #V-319,11223344P,1
 192,1050.14,2025-03-15,VENTA,bizum,Pendiente pago,Etiqueta #V-794,89012345Y,1
-193,541.19,15-Apr-2025,VENTA,transferencia,Garantía extendida,Etiqueta #V-404,28954632Z,3
-194,349.93,07/10/2025,VENTA,transferencia,Duplicado,Garantía #V-405,88990011T,1
-195,390.26,2025/05/02,COMPRA,efectivo,Falta confirmación,Albarán #C-369,B99887766,3
-196,492.91,2025/04/07,COMPRA,bizum,Falta confirmación,Recomendación de uso #C-574,B99887766,2
-197,1365.8,2025.10.22,COMPRA,tarjeta,Falta confirmación,Albarán #C-897,B99887766,0
-198,599.19,10-Aug-2025,COMPRA,efectivo,Pendiente pago,Garantía #C-381,B99887766,0
-199,1183.54,2025.04.27,VENTA,tarjeta,Garantía extendida,Albarán #V-390,11122233V,1
+193,541.19,2025-04-15,VENTA,transferencia,Garantía extendida,Etiqueta #V-404,28954632Z,3
+194,349.93,2025-10-07,VENTA,transferencia,Duplicado,Garantía #V-405,88990011T,1
+195,390.26,2025-05-02,COMPRA,efectivo,Falta confirmación,Albarán #C-369,B99887766,3
+196,492.91,2025-04-07,COMPRA,bizum,Falta confirmación,Recomendación de uso #C-574,B99887766,2
+197,1365.8,2025-10-22,COMPRA,tarjeta,Falta confirmación,Albarán #C-897,B99887766,0
+198,599.19,2025-08-10,COMPRA,efectivo,Pendiente pago,Garantía #C-381,B99887766,0
+199,1183.54,2025-04-27,VENTA,tarjeta,Garantía extendida,Albarán #V-390,11122233V,1

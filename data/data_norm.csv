@@ -1,0 +1,201 @@
+TipoRegistro,Fecha,Empleado,Cliente_Proveedor,NIF,Direccion,Productos,Cantidades,Precios,Total,MedioPago,Documento,Observaciones
+COMPRA,2025-08-17,Javier Torres,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Batería 12V,8,61.21,489.68,efectivo,Etiqueta #C-801,Falta confirmación
+VENTA,2025-05-05,Ana García,MotoRepara,87654321N,"C/ Montaña 4, Granada",Cable 2m;Aceite lubricante;Filtro aire,4;8;8,"32.22;4,21;62,28",660.8,bizum,Garantía #V-516,Pendiente pago
+COMPRA,2025-03-19,Pedro López,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Aceite lubricante;Cable 2m,4;5,"36,32;3.98",165.18,tarjeta,Albarán #C-555,Falta confirmación
+VENTA,2025-05-16,Ana García,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Compresor portátil;Aceite lubricante;Taladro 500W,9;8;7,"3.37;54.08;59,21",877.44,efectivo,Garantía #V-888,Falta confirmación
+COMPRA,2025-01-06,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Llave inglesa;Compresor portátil;Batería 12V;Taladro 500W,10;9;7;9,"31.24;61.21;52,64;61.41",1824.28,bizum,Recomendación de uso #C-520,
+COMPRA,2025-09-08,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Aceite lubricante;Batería 12V;Taladro 500W,7;7;4,"52,7;19,32;71.78",791.26,bizum,Etiqueta #C-754,Falta confirmación
+VENTA,2025-04-18,Pedro López,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Cable 2m;Batería 12V;Llave inglesa;Kit reparación,1;3;10;5,"52,11;67,38;77,1;18,17",1116.1,efectivo,Recomendación de uso #V-853,Garantía extendida
+COMPRA,2025-08-20,Ana García,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Filtro aire,3;7,"66,58;13,11",347.41,transferencia,Albarán #C-183,Falta confirmación
+COMPRA,2025-02-09,Marta Ruiz,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Compresor portátil;Cable 2m;Aceite lubricante,8;2;9,"54.83;54.86;13,85",673.01,efectivo,Recomendación de uso #C-140,Pendiente pago
+VENTA,2025-09-17,Marta Ruiz,Motorline,55667788W,"C/ Castilla 22, Madrid",Taladro 500W;Cable 2m;Batería 12V;Compresor portátil,6;5;10;7,"37,6;68,91;24.41;72,95",,tarjeta,Factura #V-584,Entrega parcial
+VENTA,2025-01-24,Marta Ruiz,Repara YA,77889900K,"C/ Valencia 6, Murcia",Cable 2m;Filtro aire;Adaptador 12V,2;7;8,"9,32;22,1;40,88",499.67,efectivo,Factura #V-750,Garantía extendida
+VENTA,2025-04-03,Marta Ruiz,Taller Exprés,22113344J,"C/ Ronda 7, Zaragoza",Filtro aire;Kit reparación;Taladro 500W,8;3;9,"39,14;77,64;10.46",640.18,tarjeta,Albarán #V-471,
+COMPRA,2025-01-22,Marta Ruiz,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Adaptador 12V,7,"20,27",148.71,efectivo,Etiqueta #C-457,Duplicado
+VENTA,2025-02-07,Pedro López,AutoService,66779988S,"C/ Sol 22, Málaga",Cable 2m;Compresor portátil;Llave inglesa,4;8;3,"58,42;29,66;59,36",649.04,bizum,Recomendación de uso #V-410,Duplicado
+COMPRA,2025-09-18,Javier Torres,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Adaptador 12V;Llave inglesa;Aceite lubricante;Filtro aire,8;9;9;4,"30.36;32,62;61.51;71.03",1374.17,bizum,Etiqueta #C-339,Garantía extendida
+VENTA,2025-07-01,Pedro López,Repuestos Hermanos Gil,22334455R,"C/ Prado 4, Córdoba",Compresor portátil;Llave inglesa;Adaptador 12V,9;6;7,"28.61;27.34;64,75",,efectivo,Etiqueta #V-911,Duplicado
+VENTA,2025-04-09,Pedro López,AutoService,66779988S,"C/ Sol 22, Málaga",Filtro aire;Compresor portátil,9;2,"28,31;15,23",,bizum,Etiqueta #V-975,Pendiente pago
+COMPRA,2025-01-18,Ana García,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Adaptador 12V;Batería 12V,4;10,"34,59;9.54",233.76,efectivo,Garantía #C-919,Pendiente pago
+COMPRA,2025-10-01,Marta Ruiz,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Filtro aire;Cable 2m;Kit reparación;Llave inglesa,8;2;6;3,"62.15;46,54;34,21;17.52",848.1,bizum,Etiqueta #C-157,Garantía extendida
+VENTA,2025-03-24,Ana García,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Cable 2m;Adaptador 12V;Kit reparación,4;3;2,43.76;77.28;42.53,491.94,tarjeta,Recomendación de uso #V-708,Falta confirmación
+VENTA,2025-03-19,Javier Torres,Taller Mecánico López,99884433Z,"Av. Europa 2, Sevilla",Filtro aire;Compresor portátil;Cable 2m;Llave inglesa,8;5;5;1,32.92;28.95;25.61;49.78,585.94,efectivo,Albarán #V-526,
+COMPRA,2025-10-10,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Llave inglesa;Kit reparación,5;5,8.15;21.42,147.85,transferencia,Etiqueta #C-383,Duplicado
+COMPRA,2025-03-13,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Cable 2m;Kit reparación;Batería 12V;Filtro aire,6;2;8;1,"43,12;22.66;74.94;11.46",938.06,tarjeta,Albarán #C-544,Falta confirmación
+COMPRA,2025-01-14,Javier Torres,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Kit reparación;Cable 2m,7;3,38.83;31.9,367.51,transferencia,Factura #C-464,
+VENTA,2025-09-25,Marta Ruiz,RefriCar,23456789L,"C/ Paz 2, León",Taladro 500W;Llave inglesa;Cable 2m,3;10;3,46.58;37.14;34.51,600.83,transferencia,Garantía #V-475,
+VENTA,2025-05-02,Ana García,RefriCar,23456789L,"C/ Paz 2, León",Adaptador 12V;Aceite lubricante;Compresor portátil;Cable 2m,4;10;9;2,"29,37;28.66;21,9;11,42",624.02,transferencia,Etiqueta #V-921,Duplicado
+COMPRA,2025-02-22,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Cable 2m;Taladro 500W,5;5,"7.96;53,61",349.63,efectivo,Etiqueta #C-289,Pendiente pago
+COMPRA,2025-08-21,Ana García,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Aceite lubricante;Llave inglesa,6;10,"65,14;70.38",1094.64,tarjeta,Recomendación de uso #C-103,Falta confirmación
+VENTA,2025-01-05,Pedro López,Mecánica Pro,88776655A,"C/ Luna 19, Valencia",Compresor portátil,7,"27,21",190.47,tarjeta,Factura #V-601,Duplicado
+COMPRA,2025-05-17,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Cable 2m;Filtro aire,9;4;4,"25,76;44.64;54,11",626.84,efectivo,Recomendación de uso #C-490,Entrega parcial
+VENTA,2025-01-25,Ana García,ElectroFix,99887766G,"C/ Goya 3, Valencia",Compresor portátil,9,14.69,132.21,transferencia,Factura #V-796,
+VENTA,2025-05-06,Javier Torres,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Llave inglesa;Aceite lubricante;Compresor portátil,4;1;7,"11.0;76,24;71.39",619.97,tarjeta,Albarán #V-748,Entrega parcial
+VENTA,2025-07-09,Marta Ruiz,FastFix,11223344P,"Av. Elche 14, Elche",Taladro 500W;Llave inglesa;Batería 12V;Aceite lubricante,5;5;8;5,77.86;67.63;56.55;45.55,1407.6,transferencia,Etiqueta #V-612,Pendiente pago
+COMPRA,2025-03-28,Pedro López,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Compresor portátil;Llave inglesa,1;3,"51,82;58,82",228.28,tarjeta,Factura #C-128,Duplicado
+COMPRA,2025-08-20,Marta Ruiz,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Taladro 500W,4,47.41,189.64,tarjeta,Garantía #C-319,Entrega parcial
+VENTA,2025-03-09,Pedro López,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Compresor portátil;Kit reparación;Batería 12V;Filtro aire,8;2;5;7,"5,96;42.22;51.44;64,62",,transferencia,Recomendación de uso #V-885,Falta confirmación
+COMPRA,2025-10-05,Marta Ruiz,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Adaptador 12V,4,53.86,,efectivo,Garantía #C-273,Falta confirmación
+COMPRA,2025-10-05,Javier Torres,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Adaptador 12V;Batería 12V;Cable 2m;Filtro aire,7;2;5;2,"65.31;23.07;61,59;78,65",968.56,bizum,Recomendación de uso #C-740,Garantía extendida
+COMPRA,2025-04-14,Marta Ruiz,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Kit reparación;Batería 12V;Adaptador 12V,10;3;4,"76,07;11,94;75.8",1099.72,efectivo,Albarán #C-710,
+COMPRA,2025-07-02,Marta Ruiz,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Aceite lubricante;Compresor portátil;Cable 2m;Kit reparación,8;1;10;2,"54,07;30,86;59.05;64.48",1259.1,transferencia,Etiqueta #C-171,Entrega parcial
+VENTA,2025-02-08,Ana García,Motorline,55667788W,"C/ Castilla 22, Madrid",Kit reparación;Llave inglesa;Adaptador 12V,2;2;10,"77,36;41,16;77.76",1014.64,tarjeta,Recomendación de uso #V-377,Garantía extendida
+COMPRA,2025-05-01,Javier Torres,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Llave inglesa,3,"40,18",120.54,tarjeta,Albarán #C-131,Falta confirmación
+VENTA,2025-10-17,Marta Ruiz,AutoMotor Sur,33445566J,"Ctra. Cádiz Km. 3, Jerez",Batería 12V;Kit reparación,9;6,65.44;48.75,881.46,efectivo,Recomendación de uso #V-199,
+VENTA,2025-09-06,Marta Ruiz,Taller Exprés,22113344J,"C/ Ronda 7, Zaragoza",Llave inglesa,1,35.26,34.16,bizum,Factura #V-605,Garantía extendida
+VENTA,2025-01-02,Javier Torres,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Llave inglesa;Aceite lubricante;Kit reparación;Taladro 500W,10;9;1;4,"60,09;5.76;19.56;48.64",866.86,bizum,Albarán #V-700,
+COMPRA,2025-01-15,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Batería 12V;Cable 2m;Llave inglesa,3;9;2,"32.7;78.29;37,82",,efectivo,Garantía #C-713,
+COMPRA,2025-10-13,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Llave inglesa;Adaptador 12V,4;2,"3,06;47.68",107.6,transferencia,Etiqueta #C-268,Entrega parcial
+VENTA,2025-08-12,Marta Ruiz,FixCar,66778899Q,"Av. Levante 12, Alicante",Kit reparación,6,29.14,174.84,bizum,Recomendación de uso #V-416,Duplicado
+VENTA,2025-08-11,Pedro López,Electrodomésticos Sol,C11223344,"Calle Real 45, Málaga",Filtro aire;Taladro 500W;Batería 12V;Aceite lubricante,8;2;7;7,"63,88;5,1;5.4;24,26",728.86,transferencia,Factura #V-462,Garantía extendida
+COMPRA,2025-10-15,Marta Ruiz,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Llave inglesa;Batería 12V;Filtro aire;Adaptador 12V,3;6;8;8,"46,31;19.24;42.47;64,67",1111.49,bizum,Factura #C-404,Garantía extendida
+COMPRA,2025-05-06,Marta Ruiz,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Taladro 500W;Compresor portátil;Filtro aire;Adaptador 12V,2;3;9;8,"74,14;11.53;12,23;72.06",869.42,tarjeta,Etiqueta #C-368,Garantía extendida
+VENTA,2025-08-18,Javier Torres,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Taladro 500W;Batería 12V;Cable 2m,8;7;5,"38.36;78.88;73,09",1224.49,transferencia,Recomendación de uso #V-932,Entrega parcial
+COMPRA,2025-06-02,Javier Torres,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Adaptador 12V;Taladro 500W;Kit reparación,6;9;5,"32.15;44,58;79.65",992.37,efectivo,Factura #C-425,
+VENTA,2025-06-01,Ana García,Motorline,55667788W,"C/ Castilla 22, Madrid",Compresor portátil,8,4.89,39.12,efectivo,Recomendación de uso #V-967,Pendiente pago
+COMPRA,2025-07-24,Pedro López,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Compresor portátil;Kit reparación;Filtro aire,4;4;2,6.05;79.32;51.71,444.9,efectivo,Albarán #C-315,Pendiente pago
+VENTA,2025-09-22,Marta Ruiz,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Batería 12V;Filtro aire,2;1,"58.96;22,9",140.82,transferencia,Factura #V-471,Duplicado
+VENTA,2025-09-15,Ana García,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Kit reparación;Cable 2m,4;6,"13.65;72,61",490.26,bizum,Garantía #V-328,Falta confirmación
+VENTA,2025-07-06,Marta Ruiz,Motorline,55667788W,"C/ Castilla 22, Madrid",Llave inglesa;Filtro aire,7;6,"61,47;78,71",902.55,tarjeta,Garantía #V-481,Duplicado
+VENTA,2025-09-23,Javier Torres,EconoCar,89012345Y,"C/ Madrid 8, Albacete",Filtro aire;Cable 2m;Taladro 500W;Adaptador 12V,6;8;1;6,"10.14;17,04;76,29;69.9",692.85,tarjeta,Recomendación de uso #V-880,Entrega parcial
+COMPRA,2025-06-21,Ana García,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Compresor portátil;Adaptador 12V;Kit reparación,10;1;1,"37,67;20.22;28.04",424.96,efectivo,Garantía #C-798,Duplicado
+VENTA,2025-05-27,Javier Torres,AutoService,66779988S,"C/ Sol 22, Málaga",Taladro 500W;Cable 2m;Adaptador 12V,7;5;4,"63,91;9,81;76,03",800.54,efectivo,Etiqueta #V-661,
+VENTA,2025-10-25,Pedro López,Motorline,55667788W,"C/ Castilla 22, Madrid",Cable 2m;Filtro aire;Adaptador 12V;Compresor portátil,6;5;6;5,"17,44;67.74;18.24;21,76",661.58,tarjeta,Garantía #V-444,Falta confirmación
+COMPRA,2025-05-16,Marta Ruiz,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Llave inglesa;Batería 12V;Adaptador 12V,10;4;10,"45,38;32.66;74,4",1328.44,transferencia,Factura #C-563,Duplicado
+COMPRA,2025-06-04,Marta Ruiz,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Aceite lubricante;Batería 12V;Taladro 500W,1;8;5,"75,33;66.62;31.8",767.29,efectivo,Recomendación de uso #C-614,Pendiente pago
+COMPRA,2025-01-01,Marta Ruiz,Suministros López,B23456789,"C/ Mayor 12, Madrid",Batería 12V;Llave inglesa;Aceite lubricante,10;10;9,"53.4;55.82;58,37",1617.53,efectivo,Recomendación de uso #C-973,Entrega parcial
+VENTA,2025-06-25,Javier Torres,EconoCar,89012345Y,"C/ Madrid 8, Albacete",Llave inglesa;Aceite lubricante;Filtro aire;Kit reparación,4;5;7;6,"69.6;71.75;42.57;20,77",1059.76,transferencia,Factura #V-168,
+COMPRA,2025-02-15,Marta Ruiz,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Llave inglesa,4,"57,59",230.36,transferencia,Recomendación de uso #C-675,Pendiente pago
+VENTA,2025-08-17,Pedro López,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Taladro 500W,5,"19,99",99.95,bizum,Recomendación de uso #V-155,Garantía extendida
+VENTA,2025-06-20,Pedro López,Repuestos Hermanos Gil,22334455R,"C/ Prado 4, Córdoba",Cable 2m;Kit reparación;Taladro 500W;Batería 12V,4;9;7;4,"51.71;44.42;14,97;4.39",728.97,transferencia,Recomendación de uso #V-776,
+VENTA,2025-04-27,Javier Torres,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Cable 2m;Adaptador 12V;Llave inglesa;Filtro aire,9;5;7;9,29.42;48.11;50.04;53.14,1333.87,efectivo,Garantía #V-476,Garantía extendida
+VENTA,2025-08-06,Ana García,Repara YA,77889900K,"C/ Valencia 6, Murcia",Compresor portátil;Aceite lubricante,5;1,18.75;47.52,141.27,efectivo,Albarán #V-312,Duplicado
+COMPRA,2025-04-24,Javier Torres,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Adaptador 12V;Cable 2m;Filtro aire;Llave inglesa,4;1;6;4,"29.94;59,72;39,85;36,21",563.42,tarjeta,Albarán #C-828,Duplicado
+COMPRA,2025-02-08,Marta Ruiz,Suministros López,B23456789,"C/ Mayor 12, Madrid",Filtro aire;Cable 2m,3;2,"26,16;14.39",107.26,tarjeta,Recomendación de uso #C-116,Pendiente pago
+VENTA,2025-08-05,Marta Ruiz,Motorline,55667788W,"C/ Castilla 22, Madrid",Kit reparación;Aceite lubricante;Adaptador 12V,5;4;9,"62.0;20,66;8.15",465.99,efectivo,Garantía #V-468,Entrega parcial
+VENTA,2025-10-06,Javier Torres,FastFix,11223344P,"Av. Elche 14, Elche",Cable 2m;Kit reparación;Compresor portátil,4;3;3,"24,88;30.06;72,69",407.77,efectivo,Garantía #V-659,Pendiente pago
+VENTA,2025-04-14,Javier Torres,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Cable 2m;Compresor portátil,6;8,"69,63;58.67",887.14,bizum,Factura #V-862,Pendiente pago
+COMPRA,2025-10-24,Pedro López,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Filtro aire;Taladro 500W,3;7,"56.67;18,29",298.04,tarjeta,Factura #C-379,
+COMPRA,2025-05-24,Javier Torres,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Compresor portátil;Llave inglesa;Aceite lubricante;Adaptador 12V,6;4;1;3,"32,05;30,87;6,26;70.24",532.76,transferencia,Albarán #C-426,Entrega parcial
+COMPRA,2025-07-12,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Kit reparación,5,"33,3",166.5,tarjeta,Etiqueta #C-588,Falta confirmación
+COMPRA,2025-09-14,Javier Torres,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Kit reparación,8,"12,17",97.36,transferencia,Garantía #C-282,Falta confirmación
+COMPRA,2025-03-24,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Batería 12V;Compresor portátil;Llave inglesa,8;4;7,"48,36;54,97;66.05",1069.11,efectivo,Recomendación de uso #C-788,Entrega parcial
+COMPRA,2025-06-15,Pedro López,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Cable 2m;Llave inglesa,8;6,"75,32;7,09",645.1,transferencia,Recomendación de uso #C-121,
+VENTA,2025-06-14,Pedro López,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Batería 12V;Kit reparación,2;9,"46,85;8,94",174.16,efectivo,Etiqueta #V-793,
+COMPRA,2025-06-18,Ana García,Suministros López,B23456789,"C/ Mayor 12, Madrid",Aceite lubricante;Filtro aire;Compresor portátil;Taladro 500W,7;9;8;10,"18.24;45.47;18,6;6,88",661.19,bizum,Garantía #C-503,Duplicado
+COMPRA,2025-07-02,Marta Ruiz,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Cable 2m;Adaptador 12V;Aceite lubricante;Batería 12V,10;8;1;2,"23.45;75.4;52.78;50,14",990.76,tarjeta,Etiqueta #C-236,
+COMPRA,2025-01-09,Ana García,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Kit reparación;Llave inglesa;Batería 12V;Compresor portátil,8;6;1;8,20.07;36.68;46.42;59.47,902.82,efectivo,Albarán #C-787,Falta confirmación
+VENTA,2025-06-14,Ana García,MotoRepara,87654321N,"C/ Montaña 4, Granada",Batería 12V;Filtro aire,6;5,"12.7;50,57",,bizum,Albarán #V-200,
+COMPRA,2025-06-03,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Aceite lubricante;Adaptador 12V,4;3,"66,76;54.86",384.02,tarjeta,Garantía #C-255,
+COMPRA,2025-01-23,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Aceite lubricante;Filtro aire;Batería 12V;Adaptador 12V,1;3;9;2,"55.43;47.4;32.73;26,62",545.44,transferencia,Etiqueta #C-768,Falta confirmación
+VENTA,2025-02-08,Pedro López,Repara YA,77889900K,"C/ Valencia 6, Murcia",Cable 2m;Llave inglesa;Batería 12V;Aceite lubricante,6;5;5;10,"73.88;36,17;28.55;74.17",1508.58,efectivo,Garantía #V-786,
+COMPRA,2025-10-18,Javier Torres,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Taladro 500W;Cable 2m;Adaptador 12V,10;8;5;9,"30.12;59,8;70.11;32.8",1631.22,bizum,Albarán #C-603,Pendiente pago
+COMPRA,2025-08-26,Ana García,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Compresor portátil,4,40.55,162.2,tarjeta,Garantía #C-568,Pendiente pago
+COMPRA,2025-08-25,Javier Torres,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Compresor portátil;Kit reparación;Taladro 500W,1;2;3,"40,53;25.85;63,76",,efectivo,Albarán #C-189,Falta confirmación
+VENTA,2025-09-24,Marta Ruiz,FixCar,66778899Q,"Av. Levante 12, Alicante",Taladro 500W;Llave inglesa;Adaptador 12V;Batería 12V,3;7;4;1,"11,95;53.39;27.48;37.8",511.73,tarjeta,Recomendación de uso #V-676,Garantía extendida
+VENTA,2025-06-08,Ana García,FastFix,11223344P,"Av. Elche 14, Elche",Llave inglesa;Taladro 500W;Aceite lubricante,8;3;8,"72,83;58.26;32.26",1015.5,tarjeta,Recomendación de uso #V-819,Pendiente pago
+COMPRA,2025-05-09,Ana García,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Adaptador 12V,6,12.96,77.76,tarjeta,Factura #C-684,Entrega parcial
+VENTA,2025-03-23,Pedro López,Mecánica Pro,88776655A,"C/ Luna 19, Valencia",Llave inglesa,9,"48,44",435.96,efectivo,Recomendación de uso #V-874,Pendiente pago
+COMPRA,2025-05-03,Ana García,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Kit reparación,5,"45,14",225.7,efectivo,Albarán #C-721,
+COMPRA,2025-08-21,Pedro López,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Filtro aire,2,"13,78",27.56,bizum,Recomendación de uso #C-671,Falta confirmación
+COMPRA,2025-03-21,Pedro López,Suministros López,B23456789,"C/ Mayor 12, Madrid",Filtro aire;Adaptador 12V,7;10,"56,82;27.39",,tarjeta,Recomendación de uso #C-265,Garantía extendida
+VENTA,2025-06-06,Pedro López,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Compresor portátil;Cable 2m;Adaptador 12V,8;8;8,"56,59;69,38;15.63",1132.8,bizum,Garantía #V-153,
+VENTA,2025-01-20,Ana García,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Taladro 500W;Kit reparación;Filtro aire,6;1;7,"47.76;70.61;63,82",803.91,tarjeta,Factura #V-965,Pendiente pago
+COMPRA,2025-08-21,Marta Ruiz,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Aceite lubricante,8,"41,59",332.72,tarjeta,Factura #C-998,
+COMPRA,2025-02-23,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Taladro 500W;Filtro aire;Kit reparación;Llave inglesa,6;5;6;8,"16,86;33.18;64.71;55,84",1102.04,bizum,Factura #C-717,Pendiente pago
+COMPRA,2025-06-21,Pedro López,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Llave inglesa,2,66.01,132.02,bizum,Recomendación de uso #C-993,Duplicado
+COMPRA,2025-07-22,Marta Ruiz,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Kit reparación,5,49.64,,transferencia,Garantía #C-413,Pendiente pago
+VENTA,2025-05-16,Marta Ruiz,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Taladro 500W,6,"3,05",18.3,transferencia,Etiqueta #V-850,Pendiente pago
+COMPRA,2025-01-11,Javier Torres,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Llave inglesa;Filtro aire;Taladro 500W;Compresor portátil,5;2;6;9,"3,13;9.34;57,76;36,63",813.07,bizum,Recomendación de uso #C-790,Garantía extendida
+COMPRA,2025-10-09,Ana García,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Adaptador 12V;Aceite lubricante,3;6,"74,56;7,55",268.98,efectivo,Garantía #C-799,Entrega parcial
+COMPRA,2025-10-23,Javier Torres,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Taladro 500W,7,"78,91",552.37,transferencia,Albarán #C-157,Garantía extendida
+COMPRA,2025-06-25,Pedro López,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Taladro 500W;Kit reparación;Aceite lubricante,4;7;1,"9,49;9,34;8.38",111.72,transferencia,Etiqueta #C-183,Pendiente pago
+VENTA,2025-05-26,Marta Ruiz,Motorline,55667788W,"C/ Castilla 22, Madrid",Llave inglesa,8,77.83,622.64,efectivo,Recomendación de uso #V-637,
+VENTA,2025-09-09,Ana García,FixCar,66778899Q,"Av. Levante 12, Alicante",Batería 12V;Cable 2m;Llave inglesa,6;6;6,58.77;73.4;59.04,1147.26,bizum,Garantía #V-144,
+VENTA,2025-08-21,Ana García,AutoMotor Sur,33445566J,"Ctra. Cádiz Km. 3, Jerez",Cable 2m;Taladro 500W;Kit reparación,2;10;2,"49,28;71.63;75.94",966.74,efectivo,Recomendación de uso #V-460,Pendiente pago
+COMPRA,2025-03-11,Javier Torres,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Aceite lubricante;Llave inglesa,10;5,"57.42;77,41",,transferencia,Recomendación de uso #C-982,Duplicado
+VENTA,2025-04-04,Pedro López,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Batería 12V,2,"15,84",31.68,efectivo,Etiqueta #V-503,Duplicado
+VENTA,2025-05-02,Pedro López,Repuestos Hermanos Gil,22334455R,"C/ Prado 4, Córdoba",Llave inglesa;Filtro aire,2;10,"62.36;60,46",729.32,tarjeta,Albarán #V-504,
+COMPRA,2025-04-19,Pedro López,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Filtro aire,6,36.81,220.86,efectivo,Albarán #C-830,Entrega parcial
+COMPRA,2025-03-22,Marta Ruiz,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Filtro aire;Taladro 500W,4;10,"31,6;9,87",225.1,efectivo,Recomendación de uso #C-661,Garantía extendida
+COMPRA,2025-04-24,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Adaptador 12V;Cable 2m;Filtro aire;Compresor portátil,6;4;6;3,"53.5;47.73;66.9;19,55",971.97,bizum,Albarán #C-702,Falta confirmación
+VENTA,2025-04-12,Ana García,EconoCar,89012345Y,"C/ Madrid 8, Albacete",Llave inglesa,7,"18,71",,tarjeta,Garantía #V-112,
+VENTA,2025-06-21,Javier Torres,FastFix,11223344P,"Av. Elche 14, Elche",Adaptador 12V;Cable 2m;Taladro 500W;Kit reparación,2;4;1;2,"21.41;17,11;40.59;71.68",295.21,efectivo,Albarán #V-788,
+VENTA,2025-08-13,Javier Torres,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Kit reparación,5,26.38,131.9,transferencia,Recomendación de uso #V-122,Duplicado
+VENTA,2025-05-27,Marta Ruiz,AutoMotor Sur,33445566J,"Ctra. Cádiz Km. 3, Jerez",Filtro aire;Adaptador 12V;Kit reparación;Batería 12V,10;10;6;3,"53,99;24.16;49,64;55,9",1247.04,transferencia,Recomendación de uso #V-838,Garantía extendida
+VENTA,2025-02-15,Javier Torres,Taller Mecánico López,99884433Z,"Av. Europa 2, Sevilla",Compresor portátil;Filtro aire,9;7,"65,32;21.69",739.71,transferencia,Albarán #V-166,Entrega parcial
+COMPRA,2025-09-23,Ana García,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Cable 2m;Compresor portátil;Llave inglesa;Adaptador 12V,8;9;6;1,"21.04;46.67;75,11;39.27",1078.28,transferencia,Recomendación de uso #C-605,Falta confirmación
+COMPRA,2025-04-28,Marta Ruiz,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Taladro 500W;Cable 2m;Llave inglesa,10;3;10,"74,14;23,54;9.72",882.93,tarjeta,Garantía #C-955,Pendiente pago
+VENTA,2025-10-17,Marta Ruiz,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Kit reparación,7,"72,72",509.04,bizum,Albarán #V-619,Garantía extendida
+VENTA,2025-01-06,Ana García,ElectroFix,99887766G,"C/ Goya 3, Valencia",Batería 12V;Aceite lubricante,10;7,"25.61;6,22",299.64,tarjeta,Factura #V-113,Duplicado
+VENTA,2025-06-11,Ana García,AutoService,66779988S,"C/ Sol 22, Málaga",Compresor portátil;Batería 12V;Taladro 500W,8;6;5,53.8;56.6;53.8,1039.0,efectivo,Garantía #V-226,Pendiente pago
+VENTA,2025-04-09,Ana García,MotoRepara,87654321N,"C/ Montaña 4, Granada",Aceite lubricante;Batería 12V;Compresor portátil,5;1;6,78.75;39.15;61.23,800.28,transferencia,Factura #V-324,Entrega parcial
+VENTA,2025-06-09,Ana García,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Cable 2m,9,19.29,173.61,tarjeta,Recomendación de uso #V-366,
+COMPRA,2025-09-06,Ana García,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Adaptador 12V;Batería 12V,6;5,"70.49;14,42",433.89,efectivo,Etiqueta #C-324,
+COMPRA,2025-04-15,Pedro López,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Filtro aire;Compresor portátil;Batería 12V,8;10;4;8,"72.8;60,67;59,31;41.54",1758.66,efectivo,Albarán #C-675,Pendiente pago
+COMPRA,2025-01-22,Marta Ruiz,Suministros López,B23456789,"C/ Mayor 12, Madrid",Taladro 500W;Adaptador 12V,7;8,"15,5;62.03",,transferencia,Etiqueta #C-935,
+COMPRA,2025-05-19,Marta Ruiz,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Filtro aire;Kit reparación;Batería 12V;Llave inglesa,2;2;7;5,"9,98;69,25;44,68;8,37",513.07,transferencia,Etiqueta #C-752,
+COMPRA,2025-06-08,Javier Torres,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Aceite lubricante,6,19.81,99.93,efectivo,Etiqueta #C-106,Pendiente pago
+VENTA,2025-05-15,Marta Ruiz,FixCar,66778899Q,"Av. Levante 12, Alicante",Cable 2m;Batería 12V,2;3,"71,85;65.36",339.78,efectivo,Factura #V-784,Duplicado
+VENTA,2025-06-03,Javier Torres,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Kit reparación,2,70.31,131.19,bizum,Garantía #V-831,Falta confirmación
+COMPRA,2025-01-27,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Compresor portátil;Aceite lubricante;Adaptador 12V;Filtro aire,8;5;1;3,"49,25;45.57;33.62;54.23",827.13,bizum,Garantía #C-930,Duplicado
+COMPRA,2025-04-24,Pedro López,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Llave inglesa;Taladro 500W;Adaptador 12V,2;5;4,"11,6;74,32;43.26",567.84,tarjeta,Factura #C-389,Falta confirmación
+COMPRA,2025-05-21,Pedro López,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Aceite lubricante;Compresor portátil;Cable 2m,9;2;2,"61,84;29.92;71,94",760.28,tarjeta,Garantía #C-919,
+COMPRA,2025-01-02,Marta Ruiz,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Kit reparación,2,5.18,,tarjeta,Garantía #C-768,Garantía extendida
+VENTA,2025-09-22,Marta Ruiz,Repara YA,77889900K,"C/ Valencia 6, Murcia",Filtro aire,6,"9,51",57.06,efectivo,Albarán #V-734,Entrega parcial
+VENTA,2025-05-04,Pedro López,MotoRepara,87654321N,"C/ Montaña 4, Granada",Adaptador 12V;Cable 2m;Compresor portátil,9;5;6,"6,25;67.56;20,91",535.9,tarjeta,Etiqueta #V-402,Duplicado
+VENTA,2025-04-14,Javier Torres,FastFix,11223344P,"Av. Elche 14, Elche",Filtro aire;Adaptador 12V,4;4,"73,56;76,74",601.2,bizum,Recomendación de uso #V-982,Entrega parcial
+VENTA,2025-02-02,Pedro López,Taller Exprés,22113344J,"C/ Ronda 7, Zaragoza",Batería 12V,2,"59,11",118.22,tarjeta,Recomendación de uso #V-477,Entrega parcial
+COMPRA,2025-02-21,Pedro López,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Filtro aire;Kit reparación,3;9,"56,25;78,4",874.35,bizum,Etiqueta #C-538,
+COMPRA,2025-03-09,Ana García,Suministros López,B23456789,"C/ Mayor 12, Madrid",Kit reparación;Compresor portátil,4;6,"77,4;45.8",584.4,efectivo,Garantía #C-991,Garantía extendida
+COMPRA,2025-09-21,Pedro López,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Adaptador 12V;Kit reparación;Compresor portátil,5;1;6,"56,52;50.44;14,43",,transferencia,Recomendación de uso #C-666,
+COMPRA,2025-06-21,Marta Ruiz,Suministros López,B23456789,"C/ Mayor 12, Madrid",Kit reparación;Taladro 500W;Llave inglesa;Adaptador 12V,6;8;6;7,"16.37;66,36;65.25;35,88",1271.76,transferencia,Etiqueta #C-945,Falta confirmación
+VENTA,2025-06-27,Pedro López,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Adaptador 12V;Compresor portátil;Taladro 500W;Kit reparación,7;1;7;5,"65,16;4,16;67,9;43,83",1154.73,bizum,Factura #V-111,Entrega parcial
+VENTA,2025-01-01,Javier Torres,MotoRepara,87654321N,"C/ Montaña 4, Granada",Compresor portátil;Kit reparación;Adaptador 12V;Cable 2m,10;6;8;9,"14.16;36,92;36.12;47,11",917.38,bizum,Etiqueta #V-399,Entrega parcial
+COMPRA,2025-10-02,Javier Torres,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Filtro aire;Aceite lubricante;Cable 2m,9;1;10,"43,62;60,49;75,82",1211.27,transferencia,Etiqueta #C-499,
+VENTA,2025-05-09,Ana García,ElectroMóvil,34567890H,"Av. Gran Vía 12, Madrid",Compresor portátil;Taladro 500W;Kit reparación;Llave inglesa,3;6;10;10,"33.58;41.68;67,17;33.29",1175.6,bizum,Garantía #V-288,
+VENTA,2025-10-16,Pedro López,Taller Mecánico López,99884433Z,"Av. Europa 2, Sevilla",Adaptador 12V;Cable 2m;Batería 12V;Filtro aire,4;7;1;8,"30.83;21,35;34.79;15.32",430.12,bizum,Etiqueta #V-616,
+VENTA,2025-08-15,Pedro López,Repuestos Hermanos Gil,22334455R,"C/ Prado 4, Córdoba",Adaptador 12V;Filtro aire;Kit reparación;Batería 12V,2;2;5;4,"11.83;54,12;76.15;66.01",,efectivo,Garantía #V-527,Entrega parcial
+VENTA,2025-03-04,Marta Ruiz,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Compresor portátil;Filtro aire;Cable 2m,8;4;3,"51,46;62,85;46,23",801.77,bizum,Recomendación de uso #V-527,
+VENTA,2025-08-08,Ana García,MotoRepara,87654321N,"C/ Montaña 4, Granada",Batería 12V;Cable 2m,7;10,"79,22;19,09",745.44,transferencia,Recomendación de uso #V-412,Garantía extendida
+COMPRA,2025-04-11,Ana García,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Adaptador 12V,7,"34,93",244.51,transferencia,Factura #C-904,Garantía extendida
+COMPRA,2025-04-01,Pedro López,Suministros López,B23456789,"C/ Mayor 12, Madrid",Compresor portátil,3,"40,33",117.22,transferencia,Recomendación de uso #C-852,Garantía extendida
+VENTA,2025-02-23,Marta Ruiz,Taller Mecánico López,99884433Z,"Av. Europa 2, Sevilla",Taladro 500W,2,54.26,108.52,bizum,Etiqueta #V-409,Entrega parcial
+COMPRA,2025-03-14,Javier Torres,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Adaptador 12V,2,"70,86",141.72,transferencia,Albarán #C-921,
+COMPRA,2025-08-26,Ana García,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Llave inglesa,1,"66,58",73.26,tarjeta,Factura #C-530,
+COMPRA,2025-08-11,Marta Ruiz,Distribuciones Almería,S55667788,"Av. Mediterráneo 23, Almería",Taladro 500W;Batería 12V,7;3,"30,56;58,89",390.59,bizum,Albarán #C-691,
+COMPRA,2025-09-24,Pedro López,ServiTool SL,A12345987,"C/ Portugal 3, Alicante",Batería 12V;Adaptador 12V,8;4,61.38;39.23,647.96,efectivo,Albarán #C-685,Falta confirmación
+VENTA,2025-06-08,Javier Torres,FastFix,11223344P,"Av. Elche 14, Elche",Aceite lubricante;Llave inglesa,7;9,"64.93;3,54",486.37,transferencia,Albarán #V-152,Falta confirmación
+VENTA,2025-10-15,Marta Ruiz,Taller Exprés,22113344J,"C/ Ronda 7, Zaragoza",Cable 2m;Taladro 500W;Kit reparación,8;5;5,"23.46;64,37;18.28",600.93,efectivo,Garantía #V-136,
+COMPRA,2025-03-15,Javier Torres,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Kit reparación;Taladro 500W;Cable 2m;Batería 12V,1;2;5;7,"3,47;7,94;5,33;19,3",,bizum,Etiqueta #C-671,Entrega parcial
+VENTA,2025-01-27,Javier Torres,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Filtro aire,5,"29,75",148.75,efectivo,Etiqueta #V-912,Duplicado
+COMPRA,2025-05-13,Pedro López,Suministros López,B23456789,"C/ Mayor 12, Madrid",Adaptador 12V;Compresor portátil,3;10,"32,18;9,31",189.64,transferencia,Recomendación de uso #C-187,Entrega parcial
+VENTA,2025-04-19,Pedro López,AutoMotor Sur,33445566J,"Ctra. Cádiz Km. 3, Jerez",Cable 2m;Taladro 500W;Filtro aire,4;9;5,"55,49;46.92;79.19",1040.19,transferencia,Garantía #V-728,Pendiente pago
+VENTA,2025-04-05,Javier Torres,FixCar,66778899Q,"Av. Levante 12, Alicante",Cable 2m;Kit reparación,3;1,49.65;58.25,207.2,efectivo,Garantía #V-814,Garantía extendida
+COMPRA,2025-02-01,Marta Ruiz,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Filtro aire;Llave inglesa;Adaptador 12V,5;6;1,"17,6;75.14;46,15",,tarjeta,Factura #C-465,Falta confirmación
+VENTA,2025-07-24,Marta Ruiz,FixCar,66778899Q,"Av. Levante 12, Alicante",Llave inglesa;Cable 2m;Filtro aire;Aceite lubricante,3;9;5;2,"37.64;20,23;73.52;19,83",702.25,tarjeta,Etiqueta #V-367,Pendiente pago
+VENTA,2025-01-26,Marta Ruiz,RefriCar,23456789L,"C/ Paz 2, León",Aceite lubricante;Kit reparación;Batería 12V,8;5;2,"6.8;13,65;44,77",172.39,efectivo,Albarán #V-250,Entrega parcial
+VENTA,2025-01-08,Ana García,Taller Mecánico López,99884433Z,"Av. Europa 2, Sevilla",Filtro aire;Llave inglesa,2;9,"9.29;74,42",688.36,tarjeta,Etiqueta #V-733,
+VENTA,2025-09-01,Pedro López,FastFix,11223344P,"Av. Elche 14, Elche",Compresor portátil;Llave inglesa,2;4,79.7;32.37,288.88,tarjeta,Factura #V-458,Entrega parcial
+VENTA,2025-09-19,Marta Ruiz,Taller Mecánico Ruiz,28954632Z,"Av. Andalucía 8, Sevilla",Compresor portátil;Cable 2m,2;9,21.65;64.12,620.38,efectivo,Garantía #V-559,
+VENTA,2025-01-19,Ana García,MotoRepara,87654321N,"C/ Montaña 4, Granada",Batería 12V;Adaptador 12V;Taladro 500W,1;9;7,"23,43;44,64;3,83",452.0,bizum,Garantía #V-367,Duplicado
+COMPRA,2025-04-04,Pedro López,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Aceite lubricante;Batería 12V,4;3,"43.86;32,78",237.23,bizum,Etiqueta #C-826,
+VENTA,2025-03-14,Ana García,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Aceite lubricante;Filtro aire;Taladro 500W;Batería 12V,4;3;7;2,"56,36;21,91;46.2;56.76",,transferencia,Recomendación de uso #V-665,
+VENTA,2025-09-04,Pedro López,AutoMotor Sur,33445566J,"Ctra. Cádiz Km. 3, Jerez",Aceite lubricante;Filtro aire;Taladro 500W;Compresor portátil,7;5;8;9,"32,67;17,81;73,28;14.66",1035.92,efectivo,Albarán #V-376,Garantía extendida
+COMPRA,2025-01-23,Ana García,Suministros Lopez,B23456789,"C/ Mayor 12, Madrid",Taladro 500W;Batería 12V;Cable 2m;Compresor portátil,4;10;3;3,"51.11;68.58;48,91;36.4",1146.17,efectivo,Recomendación de uso #C-931,
+COMPRA,2025-06-11,Javier Torres,Suministros López,B23456789,"C/ Mayor 12, Madrid",Kit reparación,3,"11,42",37.18,efectivo,Garantía #C-500,Garantía extendida
+VENTA,2025-01-23,Ana García,Autorecambios Gil,56789012M,"C/ Palmera 1, Cádiz",Adaptador 12V;Taladro 500W;Llave inglesa,3;6;8,17.25;14.45;54.38,573.49,transferencia,Recomendación de uso #V-309,
+VENTA,2025-01-11,Ana García,RefriCar,23456789L,"C/ Paz 2, León",Batería 12V;Llave inglesa;Kit reparación,10;3;8,"39,32;38.36;60,55",1043.12,bizum,Albarán #V-377,
+COMPRA,2025-08-04,Marta Ruiz,Materiales Centro,B33445522,"C/ Serrano 14, Madrid",Kit reparación,6,41.74,250.44,transferencia,Factura #C-908,Pendiente pago
+COMPRA,2025-03-14,Javier Torres,Proveedora Levante,C44556677,"C/ Aragón 12, Castellón",Llave inglesa;Compresor portátil;Kit reparación;Taladro 500W,6;7;2;2,"38,8;30.01;12.4;29.5",526.67,transferencia,Garantía #C-346,Garantía extendida
+VENTA,2025-10-03,Ana García,Electrodomésticos Sol,C11223344,"Calle Real 45, Málaga",Llave inglesa;Adaptador 12V,4;5,39.61;60.13,459.09,tarjeta,Albarán #V-386,Garantía extendida
+COMPRA,2025-08-25,Javier Torres,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Filtro aire;Kit reparación;Adaptador 12V,6;2;5,"7,51;40,84;69,06",472.04,efectivo,Etiqueta #C-511,Garantía extendida
+VENTA,2025-06-07,Ana García,FastFix,11223344P,"Av. Elche 14, Elche",Kit reparación,9,"22,42",201.78,bizum,Garantía #V-319,Pendiente pago
+VENTA,2025-03-15,Ana García,EconoCar,89012345Y,"C/ Madrid 8, Albacete",Kit reparación;Taladro 500W,7;7,"72,75;77.27",1050.14,bizum,Etiqueta #V-794,Pendiente pago
+VENTA,2025-04-15,Marta Ruiz,Taller Mecánico Ruiz,28954632Z,"Av. Andalucía 8, Sevilla",Batería 12V;Kit reparación;Filtro aire;Adaptador 12V,8;9;5;1,"10.0;20.72;41,98;64,81",541.19,transferencia,Etiqueta #V-404,Garantía extendida
+VENTA,2025-10-07,Ana García,AutoQuick,88990011T,"C/ Toledo 5, Toledo",Kit reparación;Taladro 500W,5;3,66.83;5.26,349.93,transferencia,Garantía #V-405,Duplicado
+COMPRA,2025-05-02,Marta Ruiz,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Kit reparación;Aceite lubricante;Taladro 500W;Adaptador 12V,2;5;3;7,"62,87;41.25;6.1;5,71",390.26,efectivo,Albarán #C-369,Falta confirmación
+COMPRA,2025-04-07,Pedro López,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Cable 2m;Aceite lubricante,6;4;3,11.82;62.2;57.73,492.91,bizum,Recomendación de uso #C-574,Falta confirmación
+COMPRA,2025-10-22,Javier Torres,TecnoParts S.L.,B99887766,"Pol. Ind. Norte, Valencia",Llave inglesa;Batería 12V;Adaptador 12V;Kit reparación,10;4;9;9,22.71;50.99;53.28;50.58,1365.8,tarjeta,Albarán #C-897,Falta confirmación
+COMPRA,2025-08-10,Javier Torres,TECNO PARTS SL,B99887766,Polígono Norte Valencia,Compresor portátil;Cable 2m,9;1,59.07;67.56,599.19,efectivo,Garantía #C-381,Pendiente pago
+VENTA,2025-04-27,Ana García,Talleres Norte,11122233V,"C/ Mayor 44, Burgos",Compresor portátil;Taladro 500W,8;9,"61,79;76.58",1183.54,tarjeta,Albarán #V-390,Garantía extendida
