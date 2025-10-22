@@ -1,7 +1,6 @@
 import mysql.connector
 from mysql.connector import Error
-import pandas as pd
-import os
+import csv
 
 DATABASE_CONFIG = {
     'host': 'localhost',
@@ -60,6 +59,7 @@ def create_db_structure(connection):
             Type VARCHAR(50),
             PayMedium VARCHAR(50),
             Observations VARCHAR(255),
+            Document VARCHAR(100),
             ClientID VARCHAR(20),
             EmployeeID INT,
             FOREIGN KEY (ClientID) REFERENCES clientprovider(NIF),
@@ -85,25 +85,102 @@ def create_db_structure(connection):
 
     except Error as e:
         print(f"Error creating database structure: {e}")
+    finally:
+        cursor.close()
+
 
 def populate_tables(connection):
     try:
-        pd.read_csv('exports/clients.csv').to_sql('clientprovider', con=connection, index=False)
+        cursor = connection.cursor()
+        
+        # Populate ClientProvider
+        with open('exports/clients.csv', 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                cursor.execute(
+                    "INSERT INTO clientprovider (NIF, Name, Address) VALUES (%s, %s, %s)",
+                    (row['NIF'], row['Name'], row['Address'])
+                )
+        connection.commit()
+        print("ClientProvider data loaded.")
+        
+        # Populate Employee
+        with open('exports/employees.csv', 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                cursor.execute(
+                    "INSERT INTO employee (id, Name) VALUES (%s, %s)",
+                    (row['id'], row['Name'])
+                )
+        connection.commit()
+        print("Employee data loaded.")
+        
+        # Populate Product
+        with open('exports/product.csv', 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                cursor.execute(
+                    "INSERT INTO product (id, Name) VALUES (%s, %s)",
+                    (row['id'], row['Name'])
+                )
+        connection.commit()
+        print("Product data loaded.")
+        
+        # Populate Transaction
+        with open('exports/transaction.csv', 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                cursor.execute(
+                    """INSERT INTO transaction 
+                    (id, TotalPrice, Date, Type, PayMedium, Observations, Document, ClientID, EmployeeID) 
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)""",
+                    (row['id'], row['TotalPrice'], row['Date'], row['Type'], row['PayMedium'],
+                     row['Observations'], row['Document'], row['ClientID'], row['EmployeeID'])
+                )
+        connection.commit()
+        print("Transaction data loaded.")
 
-        pd.read_csv('exports/employees.csv').to_sql('employee', con=connection, index=False)
-
-        pd.read_csv('exports/product.csv').to_sql('product', con=connection, index=False)
-
-        pd.read_csv('exports/transaction.csv').to_sql('transaction', con=connection, index=False)
-
-        pd.read_csv('exports/ProductTransaction.csv').to_sql('producttransaction', con=connection, index=False)
-
+        # Populate ProductTransaction
+        with open('exports/ProductTransaction.csv', 'r') as file:
+            csv_reader = csv.DictReader(file)
+            for row in csv_reader:
+                cursor.execute(
+                    """INSERT INTO producttransaction 
+                    (TransactionID, Quantity, Price, ProductID, id) 
+                    VALUES (%s, %s, %s, %s, %s)""",
+                    (row['TransactionID'], row['Quantity'], row['Price'], row['ProductID'], row['id'])
+                )
+        print("ProductTransaction data loaded.")
+        
+        connection.commit()
+        print("All data committed successfully.")
+        
     except Error as e:
+        connection.rollback()
         print(f"Error populating tables: {e}")
+    finally:
+        cursor.close()
+
+def drop_database(connection):
+    try:
+        cursor = connection.cursor()
+        cursor.execute("DROP DATABASE IF EXISTS testdb")
+        connection.commit()
+        print("Database dropped successfully.")
+        # Recreate the database
+        cursor.execute("CREATE DATABASE testdb")
+        cursor.execute("USE testdb")
+        connection.commit()
+        print("Database recreated successfully.")
+    except Error as e:
+        print(f"Error dropping database: {e}")
+    finally:
+        cursor.close()
 
 if __name__ == "__main__":
     conn = create_connection()
     if conn:
+        drop_database(conn)
         create_db_structure(conn)
         populate_tables(conn)
         conn.close()
