@@ -35,6 +35,12 @@ Run database population script
 python src/createDatabase.py
 ```
 
+# Exercise aproach & methodology
+
+The way this exercise was handeled was to first figure out the **database structure**, what **tables** and **relations** where needed. Next the needed data for those tables was extracted and **normalized**, for each of the tables we need there is a **Jupyter Notebook** that extracts, adds and creates the needed information for that table this is later **exported to a separate `CSV` file**. 
+
+Once all the table files are exported we can use the [createDatabase.py](src/createDatabase.py) **python script** to **create the database** and then **populate it** with the information in the files.
+
 ## Process
 
 Once in jupyter notebook, you can look at the diferent files in `src` in this order:
@@ -54,3 +60,5 @@ Finaly you can run the [createDatabase.py](src/createDatabase.py) file to create
 Screenshot of data in `transaction` table
 
 <img width="1032" height="743" alt="image" src="https://github.com/user-attachments/assets/f2e637ff-fa60-4e8e-a3ff-ac9d7ae16740" />
+
+_A docker container with a sql database working and showing the values correctlly inserted in the `transaction` table_
